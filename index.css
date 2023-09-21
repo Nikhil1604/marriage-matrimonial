@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+body{
+    height: 80vh;
+    background-image: url("Image/usa-matrimony.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+
+.just {
+height: 80vh;
+}
+
+.footer{
+    height: 65vh;
+    background-image: url('Image/pexels-karolina-grabowska-4195587.jpg');
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
