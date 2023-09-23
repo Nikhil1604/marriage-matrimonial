@@ -1,0 +1,10 @@
+body{
+    background-color: ghostwhite;
+}
+
+.footer{
+    height: 65vh;
+    background-image: url('Image/pexels-karolina-grabowska-4195587.jpg');
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
